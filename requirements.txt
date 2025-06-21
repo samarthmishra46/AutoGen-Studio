@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+vertexai
+python-dotenv
+replicate
+python-dotenv
+streamlit
